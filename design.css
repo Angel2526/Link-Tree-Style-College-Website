@@ -1,0 +1,277 @@
+.profile {
+    padding-left: 540px;
+    padding-top: 41px;
+    width: 170px;
+}
+.name-tag{
+    font-family: "Times New Roman", Times, serif;
+    padding-left: 210px;
+    font-size: 48px;
+    color: white;
+    font-weight: bold;
+}
+.bod{
+    background-color: #C62828;
+    margin:0 auto;
+    overflow-x:hidden;
+}
+.website{
+    padding-top: 50px;
+    width: 10%;
+    padding-left: 305px;
+}
+.instagram{
+    padding-left: 305px;
+    width: 10%;
+}
+.twitter{
+    padding-left: 50px;
+    width: 10%;
+}
+.facebook{
+    padding-left: 50px;
+    width: 10%;
+}
+.linkedin{
+    padding-left: 50px;
+    width: 10%;
+}
+.contact{
+    padding-left: 50px;
+    width: 10%;
+}
+.clubs{
+    padding-left: 50px;
+    width: 10%;
+}
+.dept{
+    padding-left: 50px;
+    width: 10%;
+}
+.foot{
+    margin: 0;
+    padding-left: 1px;
+    padding-bottom: 0em;
+    height: 110px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    position:relative;
+    font-weight: bold;
+}
+.contactbod{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    zoom: 93%;
+    overflow-x: hidden;
+    background-image: url("https://wallpapers.com/images/high/1920-x-1080-night-city-string-lights-kox8epyl17fukxu3.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.col-lg-4 {
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+    margin: 20px
+}
+.address {
+    margin-bottom: 100px;
+    display: flex;
+    padding-left: 13px;
+    padding-top: 70px;
+}
+.gray-box {
+    background: #2b2929;
+    text-align: center;
+    padding: 40px;
+    height: 100%;
+}
+.gray-box h2 {
+    font-size: 18px;
+    margin: 0 0 10px;
+    color: #cfcfcf;
+}
+.gray-box p {
+    font-size: 16px;
+    color: #cfcfcf;
+    line-height: 24px;
+}
+.a{
+    color: #cfcfcf;
+    text-decoration: none;
+}
+.admission{
+    border-color: #cfcfcf;
+    margin-left: 527px;
+    margin-top: 32px;
+    width: 360px;
+    height: 88px;
+    background: transparent;
+    border-width: 6px;
+}
+.admission p{
+    color: #cfcfcf;
+    font-weight: bold;
+    font-size: 20px;
+}
+.cse{
+    padding-top: 155px;
+    padding-left: 400px;
+    width: 10%;
+}
+.aids{
+    padding-left: 50px;
+    width: 10%;
+}
+.me{
+    width: 10%;
+    padding-left: 50px;
+}
+.ce{
+    padding-top: 50px;
+    padding-left: 400px;
+    width: 10%;
+}
+.eee{
+    padding-left: 50px;
+    width: 10%;
+}
+.ec{
+    padding-left: 50px;
+    width: 10%;
+}
+.deptbod{
+    background-color: #C62828;
+}
+.iedc{
+    padding-top: 140px;
+    width: 10%;
+    padding-left: 323px;
+}
+.ieee{
+    padding-left: 35px;
+    width: 18%;
+}
+.yiyuva{
+    padding-left: 42px;
+    width: 12%;
+}
+.tinkerhub{
+    padding-top: 30px;
+    padding-left: 312px;
+    width: 10%;
+}
+.gdsc{
+    padding-left: 57px;
+    width: 21%;
+}
+.nss{
+    padding-left: 0px;
+    width: 16%;
+}
+.home{
+    margin-left: 10px;
+    margin-top: 46px;
+    width: 5%;
+}
+.home1{
+    margin-left: 12px;
+    margin-top: 76px;
+    width: 5%;
+}
+.home2{
+    margin-left: 30px;
+    margin-top: 26px;
+    width: 12%;
+}
+.home12{
+    width: 10%;
+    padding-right: 131px;
+    padding-top: 195px;
+}
+.clubod{
+    overflow-y: hidden;
+}
+.b{
+    border-color: hotpink;
+    margin-left: 523px;
+    margin-top: 63px;
+    width: 360px;
+    height: 88px;
+    background: transparent;
+    border-width: 6px;
+}
+.b p{
+    color: hotpink;
+    font-weight: bold;
+    font-size: 20px; 
+    text-shadow: 2px 2px 8px;
+}
+.csclubbod{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    zoom: 93%;
+    overflow-x: hidden;
+    background-image: url("https://wallpapers.com/images/high/empty-hallway-aesthetic-purple-neon-computer-scigu0r8hwr9f3jz.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn{
+    margin-top: 5%;
+    width: 48.5%;
+    position: absolute;
+    margin-left: 24%;
+    height: 70px;
+    background: transparent;
+    border-width: 6px;
+    border-color: #fe1493;
+}
+.btn p{
+    font-weight: bold;
+    font-size: 20px;
+    text-shadow: 2px 2px 8px;
+    color: #fe1493;
+}
+.feedback{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: 15px;
+    zoom: 93%;
+    overflow-x: hidden;
+    background-image: url("https://wallpapers.com/images/hd/monstera-leaves-with-light-purple-lighting-5y0ip70zbcrlj1nw.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.col-md-4{
+    text-shadow: 2px 2px 8px;
+    font-size: 120%;
+    color: #fe1493;
+}
+.col-md-8{
+    text-shadow: 2px 2px 8px;
+    font-size: 120%;
+    color: #fe1493;
+}
+.bf{
+    padding-left: 1160px;
+    width: 6%;
+    margin-top: 22px;
+    margin-bottom: -139px;
+}
+.col-md-8 h1{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 42px;
+    margin-left: 558px;
+}
+.back{
+    width: 14%;
+    margin-left: 18px;
+    margin-bottom: 2px;
+}
